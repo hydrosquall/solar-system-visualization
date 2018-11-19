@@ -8,8 +8,7 @@ of my [Introduction to Computer Science](https://github.com/pablotrinidad/icc) c
 [**assignments**](https://github.com/pablotrinidad/icc/tree/master/projects/01).
 The implementation we were given was depressively horrible and
 got me frustrated after spending some time finishing it, it was
-written in Java and also poorly structured but we were not allowed
-to modify the base code 😭.
+written in Java, and were not allowed to modify the base code 😭.
 
 So... here is my version using ES6
 (with [babel compilation in browser](https://babeljs.io/setup#installation))
