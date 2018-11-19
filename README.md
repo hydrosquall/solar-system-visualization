@@ -13,7 +13,7 @@ to modify the base code 😭.
 
 So... here is my version using ES6
 (with [babel compilation in browser](https://babeljs.io/setup#installation))
-and [p5.js](https://p5js.org/).
+and [p5.js](https://p5js.org/)! 🌈🎉.
 
 My implementation is heavily based on [@shiffman's](https://github.com/shiffman)
 [using processing](https://www.youtube.com/watch?v=l8SiJ-RmeHU). You should
